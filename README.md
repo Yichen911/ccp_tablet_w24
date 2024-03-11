@@ -1,2 +1,2 @@
-# ccp_tablet_w24
-SI539 W8 Homework
+# ccp_starter_code
+Starter Code for your CCP 
